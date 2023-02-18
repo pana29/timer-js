@@ -1,0 +1,21 @@
+body {
+    max-width: 800px;
+    margin: auto;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    font-size: 3rem;
+}
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    padding: 1.2rem;
+    margin: 2rem;
+    border-radius: 1rem;
+}
